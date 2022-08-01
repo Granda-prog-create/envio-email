@@ -1,6 +1,6 @@
 Projeto de envio de emails utilizando Django
 Para iniciar o projeto, digite django-admin startproject (nome do projeto) .
-O "." é para não haver redundâncias nos arquivos. 
+O "." é para não ter redundâncias nos arquivos. 
 A seguir, use: python manage.py  startapp envia_email.  
 pip install python-decouple
 Em settings.py, fiz as seguintes alterações:
